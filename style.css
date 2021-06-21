@@ -94,4 +94,16 @@ p {
   .top-margin-sm {
     margin-top: 20px;
   }
+
+  h1 {
+    font-size: 48px;
+  }
+
+  h2 {
+    font-size: 35px;
+  }
+
+  .email-link {
+    font-size: 25px;
+  }
 }
