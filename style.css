@@ -84,3 +84,14 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 576px) {
+  .small-screen {
+    text-align: center;
+    width: 100%;
+  }
+
+  .top-margin-sm {
+    margin-top: 20px;
+  }
+}
