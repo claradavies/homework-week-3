@@ -52,6 +52,10 @@ p {
   color: white;
 }
 
+.primary-link:hover {
+  color: white;
+}
+
 .secondary-link {
   border-radius: 4px;
   padding: 20px 15px;
@@ -88,7 +92,6 @@ p {
 @media (max-width: 576px) {
   .small-screen {
     text-align: center;
-    width: 100%;
   }
 
   .top-margin-sm {
@@ -105,5 +108,10 @@ p {
 
   .email-link {
     font-size: 25px;
+  }
+
+  .project-link {
+    display: block;
+    margin: 0 30px;
   }
 }
